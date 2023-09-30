@@ -1,4 +1,4 @@
-# Praktikum1_Pemrograman_Web
+# Lab1web
 ![Screenshot 2023-09-29 193256](https://github.com/hafizalkariem/Praktikum1_Pemrograman_Web/assets/115614957/6c294912-9c3b-4b5e-bf84-d1da811e8d0c)
 Berikut adalah jawaban beserta beberapa langkah penyesuaian terhadap soal praktikum diatas.
 ## Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya apakah ada error ketika terjadi kesalahan penulisan tag
