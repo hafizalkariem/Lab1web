@@ -18,7 +18,11 @@
 
 ## 4. Menyisipkan Gambar
 ![Screenshot 2023-09-30 203622](https://github.com/hafizalkariem/Lab1web/assets/115614957/02965d1b-1274-45ac-80f7-12a7f42391ed)
+![Screenshot 2023-09-30 204131](https://github.com/hafizalkariem/Lab1web/assets/115614957/dad3e724-1e46-4674-9891-5a6938444ff9)
 
+## 5. Menambahkan Hyperlink
+![Screenshot 2023-09-30 204610](https://github.com/hafizalkariem/Lab1web/assets/115614957/dd3706b9-382a-4fc5-ae94-0639f19afe04)
+![Screenshot 2023-09-30 205446](https://github.com/hafizalkariem/Lab1web/assets/115614957/41f61934-a95b-4c66-af73-daf6c5256236)
 
 # <p align="center">Pertanyaan dan jawaban </p> 
 ![Screenshot 2023-09-29 193256](https://github.com/hafizalkariem/Praktikum1_Pemrograman_Web/assets/115614957/6c294912-9c3b-4b5e-bf84-d1da811e8d0c)
