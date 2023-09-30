@@ -1,4 +1,6 @@
 # Lab1web
+| [Praktikum](#praktikum-) | [Pertanyaan](#pertanyaan-dan-jawaban-)  | 
+| :---| :------- | 
 # <p align="center">Praktikum </p>
 ## 1. Membuat Paragraf
 ![Screenshot 2023-09-30 201957](https://github.com/hafizalkariem/Lab1web/assets/115614957/96354da3-0f91-469d-935b-6cceb33210d3)
