@@ -29,8 +29,8 @@
 # <p align="center">Pertanyaan dan jawaban </p> 
 
 | [1](#lakukan-perubahan-pada-kode-sesuai-dengan-keinginan-anda-amati-perubahannya-apakah-ada-error-ketika-terjadi-kesalahan-penulisan-tag) | [2](#apa-perbedaan-dari-tag-p-dengan-tag-br-berikan-penjelasannya)  | [3](#apa-perbedaan-atribut-title-dan-alt-pada-tag-img-berikan-penjelasannya) | [4](#untuk-mengatur-ukuran-gambar-digunakan-atribut-width-dan-height-agar-tampilan-gambar-proporsional-sebaiknya-kedua-atribut-tersebut-diisi-semua-atau-tidak-berikan-penjelasannya) | [5](#pada-link-tambahkan-atribut-target-dengan-nilai-atribut-bervariasi--_blank-_self-_top-_parent--apa-yang-terjadi-pada-masing-masing-nilai-antribut-tersebut)   |
+| :---| :------- | :----- | :-------| :------- |
 
-| :---| :------- | :-------- | :------- | : --------- |
 
 ![Screenshot 2023-09-29 193256](https://github.com/hafizalkariem/Praktikum1_Pemrograman_Web/assets/115614957/6c294912-9c3b-4b5e-bf84-d1da811e8d0c)
 Berikut adalah jawaban beserta beberapa langkah penyesuaian terhadap soal praktikum diatas.
