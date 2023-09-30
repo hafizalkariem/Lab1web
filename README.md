@@ -1,4 +1,26 @@
 # Lab1web
+# <p align="center">Praktikum </p>
+## 1. Membuat Paragraf
+![Screenshot 2023-09-30 201957](https://github.com/hafizalkariem/Lab1web/assets/115614957/96354da3-0f91-469d-935b-6cceb33210d3)
+
+![Screenshot 2023-09-27 203217](https://github.com/hafizalkariem/Lab1web/assets/115614957/5ce8e759-7626-4d73-bb3b-e171db29d16a)
+
+## 2. Menambahkan Judul
+
+![Screenshot 2023-09-30 202637](https://github.com/hafizalkariem/Lab1web/assets/115614957/f67b920d-7759-405d-89a8-a2f91f05be0b)
+
+![Screenshot 2023-09-27 203552](https://github.com/hafizalkariem/Lab1web/assets/115614957/a673f0b4-fb57-4b29-bed9-6711e0a72830)
+
+## 3. Memformat teks
+
+![Screenshot 2023-09-30 203111](https://github.com/hafizalkariem/Lab1web/assets/115614957/49e404f8-19dd-41db-9f90-4816bc1fcf52)
+![Screenshot 2023-09-30 203345](https://github.com/hafizalkariem/Lab1web/assets/115614957/e492f20b-1922-4dfb-a1e0-d2eb7aada050)
+
+## 4. Menyisipkan Gambar
+![Screenshot 2023-09-30 203622](https://github.com/hafizalkariem/Lab1web/assets/115614957/02965d1b-1274-45ac-80f7-12a7f42391ed)
+
+
+# <p align="center">Pertanyaan dan jawaban </p> 
 ![Screenshot 2023-09-29 193256](https://github.com/hafizalkariem/Praktikum1_Pemrograman_Web/assets/115614957/6c294912-9c3b-4b5e-bf84-d1da811e8d0c)
 Berikut adalah jawaban beserta beberapa langkah penyesuaian terhadap soal praktikum diatas.
 ## Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya apakah ada error ketika terjadi kesalahan penulisan tag
